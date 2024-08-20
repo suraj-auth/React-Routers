@@ -34,7 +34,7 @@ const Link = (props) => {
           </NavLink>
         </ul>
       ) : (
-        <ul className="flex flex-col text-black font-medium text-2xl mt-18">
+        <ul className="flex flex-col text-black font-medium text-2xl mt-32">
           <NavLink
             className={(e) => {
               return e.isActive

@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div className="h-full w-full">
       <Nav />
-      <div className="min-h-110 border w-full flex items-center justify-center gap-20 sm:flex-row flex-col pt-28 pb-10 sm:pt-0 sm:pb-0">
+      <div className="min-h-110 border w-full flex items-center justify-center gap-20 sm:flex-row flex-col pt-52 pb-10 sm:pt-0 sm:pb-0">
         <div className="bg-gray-100 rounded-2xl flex flex-col items-start justify-center sm:h-60 h-52 w-64 sm:w-80 pl-6">
           <h1 className="text-3xl font-bold">Get in touch:</h1>
           <h3 className=" text-slate-500">

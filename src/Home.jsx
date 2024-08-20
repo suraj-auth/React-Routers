@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="h-full w-full">
       <Nav />
-      <div className="border min-h-96 w-full">
+      <div className="border min-h-96 w-full sm:pt-0 pt-20">
         <div className="min-h-110 border w-full flex items-center justify-center gap-20 sm:gap-10 lg:gap-60 sm:flex-row flex-col">
           <img className="xs:h-64 h-40" src={compimg} alt="" />
           <div>
